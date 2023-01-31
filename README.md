@@ -1,2 +1,2 @@
 # bookstore-api
-API desenvolvida com Spring Boot e Angular 10
+Projeto em Spring Boot e Angular 10
