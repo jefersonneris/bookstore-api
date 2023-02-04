@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bf1697f-05e6-44b4-93a9-9c9d28bef09e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devneutro/bookstore/domain/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devneutro/bookstore/domain/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devneutro/bookstore/domain/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devneutro/bookstore/domain/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devneutro/bookstore/domain/Livro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <updated>1675122676068</updated>
       <workItem from="1675122678802" duration="2324000" />
       <workItem from="1675135212062" duration="47000" />
-      <workItem from="1675474979751" duration="629000" />
+      <workItem from="1675474979751" duration="1147000" />
     </task>
     <servers />
   </component>
