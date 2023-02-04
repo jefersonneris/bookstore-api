@@ -1,4 +1,4 @@
-package com.devneutro.bookstore.repository;
+package com.devneutro.bookstore.repositories;
 
 import com.devneutro.bookstore.domain.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
